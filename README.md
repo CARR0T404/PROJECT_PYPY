@@ -53,8 +53,3 @@ We adopt the metrics proposed by Kemker et al. to move beyond simple accuracy:
 * PyTorch or TensorFlow
 * NumPy, Matplotlib, Pandas
 
-### Installation
-```bash
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
-cd YOUR_REPOSITORY_NAME
-pip install -r requirements.txt
