@@ -1,4 +1,4 @@
-# PROJECT_PYPY
+# EE-AI-Catastrophic-Forgetting-EWC
 # Reproducibility Study: Overcoming Catastrophic Forgetting via Elastic Weight Consolidation (EWC)
 
 This repository contains a comprehensive reproducibility study and implementation of the **Elastic Weight Consolidation (EWC)** algorithm. The project evaluates the effectiveness of EWC in mitigating catastrophic forgetting within sequential learning environments.
@@ -49,7 +49,7 @@ We adopt the metrics proposed by Kemker et al. to move beyond simple accuracy:
 ## Implementation Details
 
 ### Prerequisites
-* Python 3.x
-* PyTorch or TensorFlow
-* NumPy, Matplotlib, Pandas
-
+  To run this project, ensure you have Python 3.8+ installed.
+  You can install all required dependencies using the provided ```requirements.txt``` file:
+  
+  ```pip install -r requirements.txt```
